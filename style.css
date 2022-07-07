@@ -1,0 +1,240 @@
+body{
+    font-family: 'Kanit', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        margin: 0 auto;
+        padding: 0;
+}
+
+.first-section{
+    background-image: url(./images/donation1.jpg);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    padding: 10rem 0;
+    text-align: center;
+}
+
+.half-widthT{
+    margin-left: 400px;
+width: 800px;
+}
+.headerBtn{
+    margin-left: 250px;
+}
+
+.headerh1{
+    font-size: 50px;
+}
+
+.text-white{
+    color: white;
+
+}
+.flexible-container{
+    display: flex;
+    padding: 5%;
+}
+.link{
+       text-decoration: none;
+       padding: 10px 40px;
+       border-radius: 5px;
+       background-image: linear-gradient(orange tomato);
+       color: white;
+       font-weight: 700;
+}
+.top-banner{
+    background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        padding: 10rem 0;
+        text-align: center;
+}
+.specialize-head{
+    text-align: center;
+    padding: 0 20%;
+    justify-content:center;
+    align-items: center;
+}
+.parent{
+    display: flex;
+    text-align: center;
+    margin-left: 330px;
+}
+.child{
+   background-color: rgba(211, 211, 211, 0.184);
+   margin: 2%;
+    padding: 20px;
+    border-radius: 3px ;
+}
+.child h4{
+    font-size: 30px;
+    font-weight: 900;
+    color: gray;
+}
+.twoHunded{
+    border: 2px solid crimson;
+    background-color: rgba(220, 20, 60, 0.107);
+}
+.donate-now{
+    margin-left: 300px;
+ }
+.wrapper label{
+    color: lightgray;
+    font-size: 25xp;
+}
+.btn{
+    background-color: rgba(213, 47, 47, 0.919);
+    font-weight: bold; 
+    padding: 20px;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.788);
+    border: none;
+    margin-top: 30px;
+   margin-right: 300px;
+   border-radius: 5px;
+}
+.wrapper{
+    text-align: center;
+    background: #fff;
+    padding: 30px;
+    
+}
+.input-data{
+    height: 40px;
+    width: 850px;
+   border-bottom: 2px solid lightgray;
+}
+
+/* Our Donate Plan */
+.Our-Donate-Plan{
+    margin-top: 100px;
+}
+.Our-Donate-Plan h1{
+    text-align: center;
+   font-size: 50px;
+   color: black;
+}
+.DonateP{
+    font-size: 20px;
+}
+.Our-Donate-Plan {
+    color: gray;
+}
+.project{
+display: flex;
+margin-left: 150px;
+margin-right: 150px;
+}
+
+.small{
+    margin: 10px;
+    padding: 30px;
+    text-align: left;
+    border-radius: 5px;
+   
+}
+.small h4{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+.small img{
+    margin-top: 30px;
+}
+.one{
+    background-color: rgba(204, 245, 252, 0.352);
+}
+.two{
+background-color: rgba(212, 94, 153, 0.116);
+}
+.three{
+background-color: rgba(113, 3, 58, 0.089);
+}
+/* Their lives depend on 
+your donation */
+
+.lives-depend{
+text-align: left;
+margin-top: 100px;
+display: grid;
+grid-template-columns: auto auto;
+}
+
+.lives-depend img{
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    margin-right: 100px;
+}
+.suviveImage{
+    margin-left: 150px;
+}
+.half-width{
+    margin-left: 170px;
+    text-align: left;
+    width: 600px;
+}
+.half-widthH1{
+    font-size: 50px;
+}
+.half-widthP{
+    font-size: 17px;
+    color: gray;
+}
+
+/* Get My Updates */
+.getMyUpdate{
+    margin-top: 100px;
+    margin-left: 300px;
+    text-align: center;
+    width: 60%;
+}
+.getMyUpdateH1{
+    font-size: 45px;
+    font-weight: 900;
+}
+.btns{
+    background-color: rgba(213, 47, 47, 0.919);
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.788);
+    border: none;
+    height: 55px;
+    padding: 10px;
+    border-radius: 0 5px 5px 0;
+}
+.Subscribe{
+    background-color:rgba(212, 94, 153, 0.116) ;
+    height: 200px;
+}
+.Subscribe input{
+    margin-top: 60px;
+    padding: 10px;
+    margin-left: 50px;
+    background-color: rgba(128, 128, 128, 0.534);
+    height: 40px;
+    width: 300px;
+    border: none;
+}
+#bt{
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+
+footer{
+    margin-top: 100px;
+    text-align: center;
+    color: #fff;
+    background-color: black;
+}
+.footerh4{
+   padding-top: 50px;
+   color: tomato;
+}
+.footerp{
+    padding-bottom: 50px;
+}
+
+
+
+    
